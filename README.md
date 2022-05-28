@@ -1,16 +1,16 @@
 # VintageMarket
 
-## Project setup
+## Project setup 安装依赖包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development  项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production 项目打包
 ```
 npm run build
 ```
@@ -26,6 +26,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 -----------------------------------------------------Vintage Market---------------------------------------------------------
+
+线上预览地址：http://47.106.123.198/
+
+-----------------------------------------------------Vintage Market---------------------------------------------------------
+
 
 ## 一、技术栈
 
